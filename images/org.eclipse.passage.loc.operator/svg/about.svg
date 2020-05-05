@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+	Copyright (c) 2018, 2020 ArSysOp and others
+	This program and the accompanying materials are made available under the
+	terms of the Eclipse Public License 2.0 which is available at
+	https://www.eclipse.org/legal/epl-2.0/.
+	SPDX-License-Identifier: EPL-2.0
+	Contributors:
+		Nikifor Fedorov <zelenyhleb@gmail.com>
+-->
 <svg version="1.1" id="main" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 116 302" style="enable-background:new 0 0 116 302;" xml:space="preserve">
 <style type="text/css">
