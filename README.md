@@ -14,8 +14,9 @@ Here you can find:
 
 ### Structure
 
-All images are sorted into folders named the same as the bundles, where these resources are located in passage project.
-Basic structure can be described as: root > images > &BUNDLE_NAME& > &REQUIRED_RESOURCE_EXTENSION&
+All images are sorted into folders named the same as the bundles, where these resources are located in passage project (E.g. in "org.eclipse.passage.loc.operator" you will find resources related to _org.eclipse.passage.loc.operator_ bundle of passage project). 
+
+In every "bundle folder" you can find few other folders named as extensions of files contained in these folders (E.g. folder name "svg" means that there are some .svg files in it).
 
 ### License
 
