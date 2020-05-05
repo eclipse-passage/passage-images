@@ -1,4 +1,4 @@
-<img src="https://github.com/zelenyhleb/passage-images/blob/master/images/org.eclipse.passage.loc.operator/png/icons/128.png"/>
+<img src="https://github.com/eclipse-passage/passage-images/blob/master/images/org.eclipse.passage.loc.operator/png/icons/128.png"/>
 
 ## Eclipse Passage Images
 
